@@ -1,4 +1,4 @@
-# gatsby-starter-travle-blog
+# gatsby-starter-travel-blog
 Gatsby starter for creating a traveler blog
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
