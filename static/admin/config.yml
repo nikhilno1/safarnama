@@ -1,6 +1,4 @@
 backend:
--  name: travel-repo
-
-+  name: github
-+  repo: nikhilno1/safarnama
+  name: github
+  repo: nikhilno1/safarnama
 
